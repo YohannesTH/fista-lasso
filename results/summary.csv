@@ -1,0 +1,3 @@
+algorithm,iterations,final_objective,nonzero_coefficients,converged
+ISTA,137,2.090533820733713,16,True
+FISTA,108,2.0905338206879835,16,True
